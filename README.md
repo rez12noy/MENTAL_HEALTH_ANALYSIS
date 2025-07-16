@@ -3,7 +3,7 @@
 This project analyzes survey data on mental health in the tech industry using R and R Markdown. The dataset spans multiple years (2017–2023) and is used to identify patterns, attitudes, and predictors related to mental health support and openness in workplaces.
 
 ## Project Structure
-
+.
 mental-health-analysis/
 ├── mental_health_analysis.Rmd   # Main R Markdown file
 ├── output.pdf  # report
